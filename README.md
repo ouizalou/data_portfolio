@@ -1,2 +1,2 @@
-# data_analyste
+# data_analyst
 data-analyst-work
